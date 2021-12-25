@@ -2,7 +2,7 @@
 An AI and Data Science project including a web scrapped dataset to perform visual search and recommend products from e-commerce websites.
 
 ## Dataset
-We created our own dataset by scrapping product information from Amazon.com. For this purpose we used online free web scrapping tool called ParseHub.
+We created our own dataset by scrapping product information from Amazon.com. For this purpose we created our custom python scrapper. 
 
 ## Research Work
 Following 4 papers were studied for the creation of this project: 
